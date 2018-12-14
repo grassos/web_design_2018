@@ -17,6 +17,8 @@
           <li><a href="index.php"> HOME </a></li>
           <li><a href="##"> MENU </a> </li>
           <li><a href="##">About US </a> </li>
+          <li><a href="##">OUR PHOTOS </a> </li>
+          <li><a href="##">CONTACT US </a> </li>
         </ul>
 
       </nav>
