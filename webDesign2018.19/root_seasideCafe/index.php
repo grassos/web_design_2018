@@ -16,6 +16,7 @@
         <ul>
           <li><a href="index.php"> HOME </a></li>
           <li><a href="##"> MENU </a> </li>
+          <li><a href="##">About US </a> </li>
         </ul>
 
       </nav>
